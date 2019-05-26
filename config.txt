@@ -1,0 +1,6 @@
+token=NTgyMzIzNDc3OTk1MDYxMjQ5.XOsJCA.1E8vLsEMZ79DIxUJdQzdIHSxHBI
+owner=410860706213134336
+prefix=1
+game=type 1uhelp
+stayinchannel=true
+songinstatus=false
